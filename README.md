@@ -1,4 +1,4 @@
-### Hi there 👋
+### Denis Ajala 👋
 
 <!--
 **DNS239/DNS239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNS239&show_icons=true&theme=cobalt)
+
+<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNS239&langs_count=8"/>
