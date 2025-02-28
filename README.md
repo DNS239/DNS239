@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Denis Ajala! 
 
-💻 Desenvolvedor Full-Stack | 🚀 Entusiasta de Tecnologia | 🎨 Minimalista Psicodélico  
+💻 Desenvolvedor Full-Stack | 🚀 Entusiasta de Tecnologia | 🎨 Minimalista
 
 ---
 
