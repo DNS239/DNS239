@@ -26,7 +26,7 @@
 ---
 
 ### 📬 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
+[![LinkedIn](www.linkedin.com/in/dns2)  
 [![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://seu-portfolio.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@email.com)  
 
